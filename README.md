@@ -11,3 +11,5 @@ For bushes ground, I used this asset:
 https://dribbble.com/shots/19571857-Free-Scrolling-City-Backgrounds-Pixel-Art
 
 Explosion effect from: freesound.org/people/tommccann/sounds/235968/
+
+Music by TimTaj (https://timtaj.com)
